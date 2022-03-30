@@ -3,7 +3,7 @@
 ### Languages and Tools :
 <div>
   <!-- Python -->
-  <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg'
+  <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'
        width='50' height='50'/>&nbsp;
   <!-- NumPy -->
   <img src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg'
@@ -17,9 +17,6 @@
   <!-- MySQL -->
   <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg'
        width='50' height='50'/>&nbsp;
-  <!-- Android Studio -->
-  <img src='https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg'
-       width='50' height='50'/>&nbsp;
   <!-- HTML5 -->
   <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg'
        width='50' height='50'/>&nbsp;
@@ -31,6 +28,9 @@
        width='50' height='50'/>&nbsp;
   <!-- VSCode -->
   <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg'
+       width='50' height='50'/>&nbsp;
+  <!-- Android Studio -->
+  <img src='https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg'
        width='50' height='50'/>&nbsp;
   <!-- Vim -->
   <img src='https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg'
