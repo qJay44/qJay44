@@ -42,6 +42,6 @@
 ### Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=qJay44&theme=vision-friendly-dark&background=111111)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qJay44&layout=compact&theme=vision-friendly-dark&bg_color=111111&exclude_repo=JavaScript-practice)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qJay44&layout=compact&theme=vision-friendly-dark&bg_color=111111&exclude_repo=JavaScript-practice&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 [![qJay44's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qJay44&theme=vision-friendly-dark&bg_color=111111&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
