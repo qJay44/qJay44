@@ -2,27 +2,11 @@
 
 ### Languages and Tools :
 <div>
-  <!-- Python -->
-  <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'
-       width='50' height='50'/>&nbsp;
-  <!-- HTML5 -->
-  <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg'
-       width='50' height='50'/>&nbsp;
-  <!-- CSS3 -->
-  <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg'
-       width='50' height='50'/>&nbsp;
-  <!-- JavaScript -->
-  <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'
-       width='50' height='50'/>&nbsp;
-  <!-- VSCode -->
-  <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg'
-       width='50' height='50'/>&nbsp;
-  <!-- Visual Studio -->
-  <img src='https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg'
-       width='50' height='50'/>&nbsp;
-  <!-- Vim -->
-  <img src='https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg'
-       width='50' height='50'/>&nbsp;
+  <!-- CPP -->           <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' width='50' height='50'/>&nbsp;
+  <!-- Python -->        <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width='50' height='50'/>&nbsp;
+  <!-- JavaScript -->    <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width='50' height='50'/>&nbsp;
+  <!-- Neovim -->        <img src='https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg' width='50' height='50'/>&nbsp;
+  <!-- Visual Studio --> <img src='https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg' width='50' height='50'/>&nbsp;
 </div>
 
 ---
