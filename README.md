@@ -5,6 +5,7 @@
   <!-- CPP -->           <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' width='50' height='50'/>&nbsp;
   <!-- Python -->        <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width='50' height='50'/>&nbsp;
   <!-- JavaScript -->    <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width='50' height='50'/>&nbsp;
+  &emsp;&emsp;
   <!-- Neovim -->        <img src='https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg' width='50' height='50'/>&nbsp;
   <!-- Visual Studio --> <img src='https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg' width='50' height='50'/>&nbsp;
 </div>
