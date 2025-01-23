@@ -12,7 +12,7 @@
 
 ---
 ### Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=qJay44&theme=vision-friendly-dark&background=111111)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats-eight.vercel.app?user=qJay44&theme=vision-friendly-dark&background=111111)](https://git.io/streak-stats)
 
 [![qJay44's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qJay44&theme=vision-friendly-dark&bg_color=111111&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
