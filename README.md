@@ -16,4 +16,7 @@
 
 [![wakatime stats](https://github-stats-extended.vercel.app/api/wakatime?username=qJay44&theme=vision-friendly-dark&bg_color=111111&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/qJay44?theme=dark&ext=contest)](https://leetcode.com/u/qJay44)
+
 [![wakatime](https://wakatime.com/badge/user/3f530940-5a86-4b30-9ed0-e07e0137df59.svg)](https://wakatime.com/@3f530940-5a86-4b30-9ed0-e07e0137df59)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/qJay44)  
